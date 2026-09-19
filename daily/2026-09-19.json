@@ -1,0 +1,366 @@
+{
+ "date": "2026-09-19",
+ "theme": "初回の問題セット：語彙・文法の土台と、聞き取りの耳慣らし",
+ "p5": [
+  {
+   "q": "The company is looking for someone with strong ___ skills.",
+   "ch": [
+    "communication",
+    "communicate",
+    "communicated",
+    "communicator"
+   ],
+   "exp": "skills を修飾する名詞 → communication skills（複合名詞）。"
+  },
+  {
+   "q": "___ the end of this quarter, we will have opened five new stores.",
+   "ch": [
+    "By",
+    "Since",
+    "During",
+    "Between"
+   ],
+   "exp": "未来の期限＋未来完了（will have opened）→ By（〜までに）。"
+  },
+  {
+   "q": "The hotel manager apologized to the guests for the ___.",
+   "ch": [
+    "inconvenience",
+    "inconvenient",
+    "inconveniently",
+    "inconvenienced"
+   ],
+   "exp": "the の後ろ → 名詞。apologize for the inconvenience は定番表現。"
+  },
+  {
+   "q": "Ms. Okada is ___ of the best designers in the industry.",
+   "ch": [
+    "one",
+    "each",
+    "either",
+    "another"
+   ],
+   "exp": "one of the 最上級＋複数名詞＝最も〜な…の1人。"
+  },
+  {
+   "q": "The printer is currently out of ___.",
+   "ch": [
+    "order",
+    "orders",
+    "ordering",
+    "ordered"
+   ],
+   "exp": "out of order＝故障中。決まった表現。"
+  },
+  {
+   "q": "We ___ the results of the survey next Monday.",
+   "ch": [
+    "will announce",
+    "announced",
+    "was announcing",
+    "has announced"
+   ],
+   "exp": "next Monday（未来）→ will announce。"
+  },
+  {
+   "q": "Any employee ___ wishes to attend the workshop should contact Ms. Lee.",
+   "ch": [
+    "who",
+    "whom",
+    "whose",
+    "which"
+   ],
+   "exp": "人が先行詞で、直後に動詞（wishes）→ 主格 who。"
+  },
+  {
+   "q": "The seminar will cover ___ topics, including marketing and finance.",
+   "ch": [
+    "various",
+    "variety",
+    "variously",
+    "vary"
+   ],
+   "exp": "topics（名詞）を修飾 → 形容詞 various（さまざまな）。"
+  },
+  {
+   "q": "Mr. Tanaka was ___ for his contribution to the company's growth.",
+   "ch": [
+    "recognized",
+    "recognizing",
+    "recognize",
+    "recognition"
+   ],
+   "exp": "be 動詞＋「評価された」→ 過去分詞（受動態）。"
+  },
+  {
+   "q": "It is important to ___ customer feedback carefully.",
+   "ch": [
+    "consider",
+    "considerable",
+    "considerably",
+    "consideration"
+   ],
+   "exp": "to の後ろ → 動詞の原形 consider。"
+  },
+  {
+   "q": "Payment can be made ___ in cash or by credit card.",
+   "ch": [
+    "either",
+    "both",
+    "neither",
+    "whether"
+   ],
+   "exp": "either A or B（AかBのどちらか）の相関表現。"
+  },
+  {
+   "q": "___ the manager was out of town, the meeting went ahead as scheduled.",
+   "ch": [
+    "Although",
+    "Despite",
+    "Because of",
+    "However"
+   ],
+   "exp": "後ろが節（the manager was ...）→ 接続詞 Although。Despite/Because of は名詞句が続く。"
+  }
+ ],
+ "p2": [
+  {
+   "q": "Where can I find the shipping label?",
+   "ch": [
+    "It's attached to the box.",
+    "At three o'clock.",
+    "Yes, it was shipped."
+   ],
+   "exp": "Where → 場所・位置。箱に貼ってある、で答える。"
+  },
+  {
+   "q": "Do you mind if I open the window?",
+   "ch": [
+    "Not at all, go ahead.",
+    "It's on the second floor.",
+    "Yes, I opened it yesterday."
+   ],
+   "exp": "Do you mind if ～? への了承は Not at all.（気にしません＝どうぞ）。"
+  },
+  {
+   "q": "What did you think of the presentation?",
+   "ch": [
+    "It was very informative.",
+    "At the conference center.",
+    "I'll present it tomorrow."
+   ],
+   "exp": "What did you think of ～? → 感想を答える。"
+  },
+  {
+   "q": "Who's going to pick up the clients at the airport?",
+   "ch": [
+    "Ms. Lopez volunteered.",
+    "Their flight was late.",
+    "About an hour away."
+   ],
+   "exp": "Who → 人名で答える。"
+  },
+  {
+   "q": "Would you like to join us for lunch?",
+   "ch": [
+    "Sorry, I already have plans.",
+    "It was delicious.",
+    "It's near the station."
+   ],
+   "exp": "誘い（Would you like to ～?）への断り。"
+  },
+  {
+   "q": "How often does the newsletter come out?",
+   "ch": [
+    "Once a month.",
+    "About twenty pages.",
+    "It's on the Web site."
+   ],
+   "exp": "How often → 頻度（Once a month）。"
+  },
+  {
+   "q": "Isn't the sales meeting at ten?",
+   "ch": [
+    "No, it's been moved to eleven.",
+    "Yes, I sent the sales report.",
+    "In the conference room."
+   ],
+   "exp": "否定疑問文。No のあとに事実（11時に変更）を続ける。"
+  },
+  {
+   "q": "I'd like to change my flight to Friday.",
+   "ch": [
+    "Let me check availability for you.",
+    "I flew last Friday.",
+    "It's a direct flight."
+   ],
+   "exp": "依頼への応答として、空席を確認します、が自然。"
+  }
+ ],
+ "p3": [
+  {
+   "script": [
+    {
+     "w": "M",
+     "t": "Hi, this is Tom from the IT department. I'm calling about the new software update."
+    },
+    {
+     "w": "W",
+     "t": "Thanks for calling. I've been having trouble logging in since yesterday."
+    },
+    {
+     "w": "M",
+     "t": "That's probably because of the update. I'll need to reset your password. Are you at your desk?"
+    },
+    {
+     "w": "W",
+     "t": "Yes, I am. But I have a client call in twenty minutes."
+    },
+    {
+     "w": "M",
+     "t": "It'll only take five minutes. I'll send a temporary password to your phone now."
+    }
+   ],
+   "qs": [
+    {
+     "q": "Why is the woman having trouble?",
+     "ch": [
+      "She cannot log in to her account.",
+      "Her phone is broken.",
+      "She missed a client call.",
+      "The software is not installed."
+     ],
+     "exp": "I've been having trouble logging in → ログインできない。"
+    },
+    {
+     "q": "What will the man do next?",
+     "ch": [
+      "Send a temporary password.",
+      "Visit her desk.",
+      "Install new software.",
+      "Cancel her client call."
+     ],
+     "exp": "I'll send a temporary password to your phone now. → 仮パスワードを送る。"
+    }
+   ]
+  },
+  {
+   "script": [
+    {
+     "w": "W",
+     "t": "Thanks for coming, everyone. Today we need to decide where to hold the year-end party."
+    },
+    {
+     "w": "M",
+     "t": "I checked two places. The Harbor Hotel can hold one hundred guests, but it costs twice as much as the Riverside Restaurant."
+    },
+    {
+     "w": "W",
+     "t": "How many people have confirmed they're coming?"
+    },
+    {
+     "w": "M",
+     "t": "So far, sixty-five."
+    },
+    {
+     "w": "W",
+     "t": "Then Riverside should be big enough. Let's book it for December twentieth."
+    }
+   ],
+   "qs": [
+    {
+     "q": "What are the speakers mainly discussing?",
+     "ch": [
+      "A location for a company event",
+      "A hotel renovation",
+      "A new employee",
+      "A change to the menu"
+     ],
+     "exp": "冒頭：where to hold the year-end party → 忘年会の会場選び。"
+    },
+    {
+     "q": "Why does the woman choose Riverside Restaurant?",
+     "ch": [
+      "It has enough space for the expected guests.",
+      "It is closer to the office.",
+      "It offers a special discount.",
+      "It serves Western food."
+     ],
+     "exp": "65人なので、Riverside should be big enough → 人数に十分な広さ。"
+    }
+   ]
+  }
+ ],
+ "p7": [
+  {
+   "passage": "Maple Fitness Center — New Hours\n\nEffective October 1, the center will be open from 5:30 A.M. to 10:00 P.M. on weekdays and from 7:00 A.M. to 6:00 P.M. on weekends. Members may bring one guest per month free of charge. Additional guests must pay a $5 day fee. The swimming pool will be closed for cleaning from October 12 to 14. Members with questions may contact the front desk.",
+   "qs": [
+    {
+     "q": "What is the notice mainly about?",
+     "ch": [
+      "Changes to opening hours",
+      "A membership discount",
+      "A construction plan",
+      "New exercise classes"
+     ],
+     "exp": "見出しと冒頭：New Hours → 営業時間の変更のお知らせ。"
+    },
+    {
+     "q": "How much must a member pay for each additional guest?",
+     "ch": [
+      "$5",
+      "Nothing",
+      "$10",
+      "$15"
+     ],
+     "exp": "Additional guests must pay a $5 day fee。"
+    },
+    {
+     "q": "When will the swimming pool be unavailable?",
+     "ch": [
+      "October 12 to 14",
+      "October 1",
+      "On weekends",
+      "October 20 to 22"
+     ],
+     "exp": "The swimming pool will be closed ... from October 12 to 14。"
+    }
+   ]
+  },
+  {
+   "passage": "From: Kevin Shaw\nTo: Rita Gomez\nSubject: Delivery of office chairs\n\nDear Ms. Gomez,\n\nThank you for your order of thirty office chairs (Order #7714). Unfortunately, due to a shortage of materials, the delivery will be delayed by about one week. The chairs will now arrive on October 21 instead of October 14. To apologize for the delay, we would like to offer you a 10 percent discount on your next purchase. Please let me know if the new date is acceptable.\n\nSincerely,\nKevin Shaw\nCustomer Service, Bright Office Supply",
+   "qs": [
+    {
+     "q": "Why is Mr. Shaw writing?",
+     "ch": [
+      "To report a delay in delivery",
+      "To confirm a payment",
+      "To request a refund",
+      "To announce a new product"
+     ],
+     "exp": "due to a shortage of materials, the delivery will be delayed → 配達遅延の連絡。"
+    },
+    {
+     "q": "What caused the problem?",
+     "ch": [
+      "A lack of materials",
+      "A shipping error",
+      "A damaged product",
+      "A wrong address"
+     ],
+     "exp": "due to a shortage of materials → 材料不足が原因。"
+    },
+    {
+     "q": "What does Mr. Shaw offer Ms. Gomez?",
+     "ch": [
+      "A discount on a future order",
+      "Free delivery",
+      "A full refund",
+      "Extra chairs"
+     ],
+     "exp": "a 10 percent discount on your next purchase → 次回購入の割引。"
+    }
+   ]
+  }
+ ]
+}
