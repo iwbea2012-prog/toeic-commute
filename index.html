@@ -2,7 +2,11 @@
 <html lang="ja"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#1e3a8a">
-<title>TOEIC 移動中トレーニング</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="icon" href="icons/hub.png">
+<link rel="apple-touch-icon" id="ati" href="icons/hub-180.png">
+<title>TOEIC 移動中</title>
 <style>
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 body{margin:0;font-family:system-ui,"Hiragino Sans","Yu Gothic",sans-serif;background:#eef2f9;color:#1f2937;min-height:100vh}
@@ -393,5 +397,8 @@ function drive(min){
  window.dStop=()=>{stopAll();home()};
  go()}
 loadDaily();
-home();
+(function(){const m=new URLSearchParams(location.search).get("m");
+ const meta={train:["TOEIC 電車","icons/train-180.png","icons/train.png"],drive:["TOEIC 運転","icons/drive-180.png","icons/drive.png"]}[m];
+ if(meta){document.title=meta[0];try{$("#ati").href=meta[1];document.querySelector('link[rel="icon"]').href=meta[2];const a=document.createElement("meta");a.name="apple-mobile-web-app-title";a.content=meta[0];document.head.appendChild(a)}catch(e){}}
+ if(m==="drive")driveMenu();else if(m==="train")train();else home()})();
 </script></body></html>
