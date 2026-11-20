@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-21",
+  "theme": "人事・採用と社内研修、会場予約：受動態・譲歩・相関接続詞・名詞形を総点検",
+  "p5": [
+    {"q": "All new employees are required ___ a two-day orientation session in their first week.", "ch": ["to attend", "attending", "attended", "attend"], "exp": "be required to do（～することが求められる）。受動態の後は to不定詞。attending/attend は形が合わない。"},
+    {"q": "The training manual ___ by the human resources team before the end of the month.", "ch": ["will be revised", "will revise", "revising", "has revised"], "exp": "主語 manual は「改訂される」側なので受動態。直後の by ～ も受動態のヒント。"},
+    {"q": "___ the heavy rain, more than two hundred applicants came to the job fair.", "ch": ["Despite", "Although", "Because", "Unless"], "exp": "後ろが名詞句（the heavy rain）なので前置詞 Despite。Although は接続詞で後ろに主語＋動詞が必要。"},
+    {"q": "Ms. Rivera has ___ experience in recruiting engineers for overseas offices.", "ch": ["extensive", "extend", "extension", "extensively"], "exp": "名詞 experience を修飾するので形容詞 extensive（豊富な）。extensively は副詞。"},
+    {"q": "The workshop will be held in Room 305, ___ the projector was recently replaced.", "ch": ["where", "which", "what", "whose"], "exp": "場所（Room 305）を先行詞にし、後ろが完全な文なので関係副詞 where。which だと後ろに主語か目的語の欠けが必要。"},
+    {"q": "Candidates should submit ___ a résumé nor a cover letter until they are contacted by our staff.", "ch": ["neither", "either", "both", "not"], "exp": "nor とセットになるのは neither（AもBも～ない）。either は or、both は and とペア。"},
+    {"q": "The ___ of the new performance review system took longer than expected.", "ch": ["implementation", "implement", "implemented", "implementing"], "exp": "冠詞 The と前置詞 of の間には名詞が入る。implementation（導入・実施）。"},
+    {"q": "Employees may work from home on Fridays, ___ that their managers approve the request in advance.", "ch": ["provided", "unless", "despite", "whether"], "exp": "provided that ～（～という条件で）。unless は「～でない限り」で意味が逆になる。"},
+    {"q": "The new hires found the mentoring program ___ helpful during their first months.", "ch": ["extremely", "extreme", "extremity", "more extreme"], "exp": "形容詞 helpful を修飾するのは副詞 extremely。find O C の C は helpful。"},
+    {"q": "By the time the interviews ended, most of the staff ___ home for the day.", "ch": ["had gone", "have gone", "will go", "go"], "exp": "By the time ＋過去形の節 → 主節はそれより前に完了しているので過去完了 had gone。"},
+    {"q": "Please reserve the main conference room ___ at least three days before your event.", "ch": ["no later than", "as long as", "in case of", "in addition"], "exp": "no later than ～（遅くとも～までに）。日時・期間の前に置ける表現として意味が通るのはこれだけ。"},
+    {"q": "Training sessions led by outside instructors are usually more popular than ___ led by managers.", "ch": ["those", "that", "them", "these ones"], "exp": "複数名詞 sessions の繰り返しを避ける代名詞は those。that は単数の代用。"}
+  ],
+  "p2": [
+    {"q": "How many people signed up for the leadership seminar?", "ch": ["About thirty, so far.", "It's on the second floor.", "Yes, I signed the form."], "exp": "How many に人数で答える。signed の音のひっかけ（signed up と signed the form）に注意。"},
+    {"q": "Who's in charge of booking the venue for the awards dinner?", "ch": ["Mr. Hall's team is handling it.", "It costs about five hundred dollars.", "The dinner was delicious."], "exp": "Who に担当者（チーム）で答える。dinner の繰り返しはひっかけ。"},
+    {"q": "Would you be able to interview a candidate tomorrow afternoon?", "ch": ["I have a client meeting until four.", "She has five years of experience.", "Yes, it was a good interview."], "exp": "依頼に対して「4時まで会議がある」と事情を伝える間接応答。過去形の interview はひっかけ。"},
+    {"q": "Do you prefer an online course or an in-person workshop?", "ch": ["I learn better face-to-face.", "Yes, I took that course.", "The workshop is on Monday."], "exp": "選択疑問文に Yes/No では答えない。face-to-face は in-person の言い換え。"},
+    {"q": "The new employee handbook is ready to be printed.", "ch": ["Let me check it one more time first.", "The printer is on sale.", "He's a new employee."], "exp": "平叙文への自然な反応「その前にもう一度確認させて」。printer / new employee は音・語のひっかけ。"},
+    {"q": "Why hasn't the job posting been uploaded yet?", "ch": ["It's still waiting for approval.", "To the company website.", "Yes, I posted it yesterday."], "exp": "Why ～ yet? に理由「まだ承認待ち」で答える。Where への答えのような To ～ はひっかけ。"},
+    {"q": "This training room seats fifty people, doesn't it?", "ch": ["Actually, only about forty.", "Yes, please take a seat.", "The training starts at nine."], "exp": "付加疑問。訂正して「実は40人ほど」。seats/seat の音のひっかけ。"},
+    {"q": "When does Ms. Grant start her new position?", "ch": ["Not until January.", "In the marketing department.", "She's a good candidate."], "exp": "When に時期で答える。Not until ～（～になってから）。部署名は Where 向けの答え。"}
+  ],
+  "p3": [
+    {
+      "script": [
+        {"w": "W", "t": "Hi, Marcus. I'm putting together the schedule for next week's training for the new sales staff. Can you lead the session on customer communication?"},
+        {"w": "M", "t": "I'd be glad to. How long would the session be?"},
+        {"w": "W", "t": "About ninety minutes, on Wednesday morning. It's in the large meeting room on the sixth floor."},
+        {"w": "M", "t": "Wednesday morning works. But I'll need a projector, and last time the one in that room wasn't working."},
+        {"w": "W", "t": "Oh, it was repaired last month. But I'll ask the facilities team to test it before Wednesday just in case."},
+        {"w": "M", "t": "Thanks. I'll send you my slides by Monday so you can include them in the handouts."}
+      ],
+      "qs": [
+        {"q": "What is the woman organizing?", "ch": ["A training program for new employees", "A product launch event", "A meeting with a client", "A repair schedule for equipment"], "exp": "冒頭で training for the new sales staff と言っている。"},
+        {"q": "What does the woman say she will do?", "ch": ["Ask another team to check some equipment", "Buy a new projector", "Move the session to a different room", "Print the man's slides on Monday"], "exp": "ask the facilities team to test it（施設チームに確認を頼む）の言い換え。スライドを送るのは男性。"}
+      ]
+    },
+    {
+      "script": [
+        {"w": "M", "t": "Hello, I'm calling from Brightway Consulting. I'd like to reserve your banquet hall for our company's anniversary party on December twelfth."},
+        {"w": "W", "t": "Let me check. I'm sorry, the hall is already booked that evening. However, our garden terrace is available, and it can hold up to eighty guests."},
+        {"w": "M", "t": "We're expecting around sixty people, so that should be fine. Is the terrace covered, though? It might be cold in December."},
+        {"w": "W", "t": "Yes, it has a glass roof and heaters, so it's comfortable all year round."},
+        {"w": "M", "t": "That sounds great. Could you e-mail me the menu options and the price list?"},
+        {"w": "W", "t": "Certainly. I'll send them this afternoon along with a booking form."}
+      ],
+      "qs": [
+        {"q": "Why is the man unable to book the banquet hall?", "ch": ["It has already been reserved.", "It is too small for his group.", "It is closed for renovation.", "It is too expensive."], "exp": "the hall is already booked that evening の言い換え。"},
+        {"q": "What concern does the man mention about the terrace?", "ch": ["It may be uncomfortable in cold weather.", "It cannot hold sixty people.", "It does not have a menu.", "It is far from his office."], "exp": "It might be cold in December と寒さを心配している。収容人数は80人なので問題ない。"}
+      ]
+    }
+  ],
+  "p7": [
+    {
+      "passage": "JOB OPENING: Administrative Assistant (Full-Time)\n\nCarlton Design Group is seeking an organized and friendly administrative assistant to support our growing office in Riverside. Responsibilities include answering phone calls, scheduling meetings, ordering office supplies, and welcoming visitors.\n\nRequirements:\n- At least two years of office experience\n- Strong computer skills, especially with spreadsheets\n- Excellent written and spoken communication\n\nExperience in the design industry is helpful but not required. We offer flexible working hours, paid holidays, and a monthly transportation allowance.\n\nTo apply, send your résumé and a short cover letter to hr@carltondesign.example by December 5. Only selected applicants will be contacted for an interview.",
+      "qs": [
+        {"q": "What is NOT mentioned as a responsibility of the position?", "ch": ["Designing marketing materials", "Answering the telephone", "Arranging meetings", "Greeting guests"], "exp": "NOT問題。phone calls / scheduling meetings / welcoming visitors は記載あり。デザイン業務はない。"},
+        {"q": "What is indicated about experience in the design industry?", "ch": ["It is an advantage but not a requirement.", "It must be at least two years long.", "It is required for all applicants.", "It will be provided through training."], "exp": "helpful but not required を「有利だが必須ではない」と言い換えている。"},
+        {"q": "What benefit does the company offer?", "ch": ["Support for commuting costs", "A company car", "Free lunches", "Overseas travel opportunities"], "exp": "monthly transportation allowance（交通費手当）を commuting costs と言い換え。"}
+      ]
+    },
+    {
+      "passage": "To: All Staff\nFrom: Naomi Fischer, Human Resources\nSubject: Spring Skills Program\n\nI am pleased to announce that registration for our Spring Skills Program is now open. This year we are offering three courses: Business Writing, Project Management Basics, and Presentation Skills. Each course meets once a week for six weeks, from 4:00 to 5:30 P.M., beginning on March 3.\n\nThe courses are free for all full-time employees. Because space is limited to fifteen participants per course, please register through the HR portal by February 14. Employees may sign up for only one course this season.\n\nIf you have any questions, please contact me at extension 214.",
+      "qs": [
+        {"q": "What is the purpose of the memo?", "ch": ["To invite employees to sign up for courses", "To announce a change in working hours", "To introduce a new HR manager", "To ask employees to evaluate a program"], "exp": "registration ... is now open と受講登録を案内している。"},
+        {"q": "How long does each course last?", "ch": ["Six weeks", "Three weeks", "Fourteen days", "Ninety days"], "exp": "once a week for six weeks。1回90分（4:00〜5:30）と混同しないこと。"},
+        {"q": "What is suggested about the courses?", "ch": ["They may fill up quickly.", "They are held on weekends.", "They are open to the public.", "They require a fee for part-time staff only."], "exp": "space is limited to fifteen participants から「すぐ埋まる可能性がある」と推測。パートタイムの料金については書かれていない。"}
+      ]
+    }
+  ]
+}
